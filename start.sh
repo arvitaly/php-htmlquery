@@ -1,0 +1,1 @@
+phpize5 && ./configure --enable-htmlquery && make clean all
